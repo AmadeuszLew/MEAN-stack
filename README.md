@@ -1,6 +1,6 @@
 # MEAN
 
-![Alt text]([public/img/mongoapp.gif] "MEAN stack")
+![Alt text](./public/img/mongoapp.gif?raw=true "Title")
 
 > 2h app, trying to do anything in mean stack
 
@@ -14,7 +14,7 @@
 
 ## Description
 
-Simple app that cooperates angularjs on front, express.js as a servers side, and mongodb as a database
+Simple app that cooperates angularjs on front, express.js as a servers side, and mongodb as a database. I've managed to store and delete files from mongodb 3.1.0
 
 #### Technologies
 
@@ -29,9 +29,9 @@ Simple app that cooperates angularjs on front, express.js as a servers side, and
 
 #### Installation
 
-`npm i`
-`node server`
-`also u need to initialize 'clientlist' db with mongodb (mongod on mangodb location)`
+- `npm i`
+- `node server`
+- `also u need to initialize 'clientlist' db with mongodb (mongod on mangodb location)`
 
 ## Author Info
 
